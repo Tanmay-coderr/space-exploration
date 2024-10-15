@@ -1,0 +1,133 @@
+body {
+    background-image: url(obs.webp);
+    display: block;
+    text-align: center;
+    font-family: star war;
+    font-optical-sizing: auto;
+    font-weight: lighter;
+    font-style: normal;
+    color: silver;
+    font-size: small;
+    background-size: cover;
+}
+
+.invite {
+    color: #a45aa5;
+    margin-top: 30px;
+    text-shadow: 5px 5px 4px black;
+
+    display: block;
+    text-align: center;
+
+}
+
+.btn {
+    color: black;
+    background-color: silver;
+    border: 1px solid rgb(0, 0, 0);
+    opacity: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70px;
+    height: 30px;
+    padding: 5px 10px;
+    font-family: inherit;
+    margin-top: 5px;
+}
+@font-face {
+    font-family: star war;
+    src: url("STJEDISE.TTF");
+}
+.underline{
+    border-bottom: 4px solid #8a2968;
+}
+
+    
+    
+
+#x_logo{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 40%;
+    border: 0px ;
+    border-radius: 100%;
+
+}
+.form{
+    text-align: center;
+    background-color: #172a49;
+    border: 0px ;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+    color: gray;
+    font-family: inherit;
+
+    
+    
+
+
+}
+.date{
+    width: 216px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #172a49;
+    color: gray;
+    border: 0px;
+    border-radius: 15px;
+    margin-top: 8px;
+    font-family: inherit;
+    
+    text-align: center;
+    margin-bottom: 8px;
+    height: 31.6px;
+
+
+}
+.layout{
+    border: 3px solid #a45aa5;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    width: 280px;
+    
+    
+}
+.email{
+    text-align: center;
+    background-color: #172a49;
+    border: 0px ;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    color: gray;
+    font-family: inherit;
+    margin-bottom: 8px;
+
+}
+.term{
+    background-color: #172a49;
+    color: #8a2968;
+    margin-top: 300px;
+    width: 300px;
+    height: 24.8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+
+
+}
